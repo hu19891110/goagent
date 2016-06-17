@@ -1,4 +1,4 @@
 #goagent
 
-http://www.51goagent.com
-https://www.vpndaquan.net.cn/
+- http://www.51goagent.com
+- https://www.vpndaquan.net.cn/
